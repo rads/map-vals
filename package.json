@@ -1,0 +1,21 @@
+{
+  "name": "map-vals",
+  "main": "index.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rads/map-vals.git"
+  },
+  "devDependencies": {
+    "tape": "1.0.4"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Radford Smith",
+    "email": "contact@radsmith.com",
+    "url": "http://radsmith.com"
+  },
+  "license": "MIT"
+}
